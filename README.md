@@ -34,8 +34,8 @@ cd bunnythatikonda.github.io
 I'm always looking to improve my portfolio and showcase the best of my abilities. If you have suggestions, feedback, or contributions, please feel free to open an issue or submit a pull request.
 
 ## Contact Information
-- Name: Ruthvika Reddy Tangirala
-- Email: sreekanthnethathatikonda@gmail.com
+- Name: Sreekanth Netha Thatikonda
+- Email: netha.srikanth@yahoo.com
 - LinkedIn: https://www.linkedin.com/in/sreekanth-netha-thatikonda/
 - 
 Thank you for visiting my portfolio! I'm open to collaborations and opportunities that can help me grow and contribute effectively.
