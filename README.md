@@ -1,8 +1,8 @@
-# ruthvikareddytangirala.github.io
+# bunnythatikonda.github.io
 
 Welcome to the Portfolio! This repository contains my personal portfolio, showcasing my projects, skills, and achievements. Feel free to explore and get to know more about my professional journey and interests.
 
-My portfolio is built using HTML, CSS, and JavaScript. You can check it out [here](https://ruthvikareddytangirala.github.io/).
+My portfolio is built using HTML, CSS, and JavaScript. You can check it out [here](https://bunnythatikonda.github.io/).
 
 ## Introduction
 
@@ -27,8 +27,8 @@ This portfolio is built using the following technologies:
 
 To clone and run this portfolio locally, follow these steps:
 
-git clone https://github.com/bunnythatikonda/ruthvikareddytangirala.github.io.git
-cd ruthvikareddytangirala.github.io
+git clone https://github.com/bunnythatikonda.github.io.git
+cd bunnythatikonda.github.io
 
 ## Contributing
 I'm always looking to improve my portfolio and showcase the best of my abilities. If you have suggestions, feedback, or contributions, please feel free to open an issue or submit a pull request.
