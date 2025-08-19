@@ -36,7 +36,8 @@ I'm always looking to improve my portfolio and showcase the best of my abilities
 ## Contact Information
 - Name: Sreekanth Netha Thatikonda
 - Email: netha.srikanth@yahoo.com
+- Professional Email : sthatiko@asu.edu
 - LinkedIn: https://www.linkedin.com/in/sreekanth-netha-thatikonda/
-- 
+  
 Thank you for visiting my portfolio! I'm open to collaborations and opportunities that can help me grow and contribute effectively.
 
